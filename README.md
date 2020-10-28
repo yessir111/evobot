@@ -84,7 +84,7 @@ Copy or Rename `config.json.example` to `config.json` and fill out the values:
 * Help (/help, /h)
 * Command Handler from [discordjs.guide](https://discordjs.guide/)
 * Media Controls via Reactions
-![reactions](https://i.imgur.com/j7CevsH.png)
+![reactions](https://media.discordapp.net/attachments/760871061867986976/770933640234139658/Screenshot_2020-10-28_at_4.53.50_AM.png?width=596&height=401)
 
 ## 🤝 Contributing
 

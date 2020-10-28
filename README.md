@@ -2,8 +2,8 @@
 
 ![logo](https://vignette.wikia.nocookie.net/darling-in-the-franxx/images/f/f7/Ikuro.png/revision/latest?cb=20180708040533)
 
-# 🤖 Ikuno (Discord Multi-Purpose Bot)
-> Ikuno is a Discord Multi-Perpose Bot built with discord.js & uses Command Handler from [discordjs.guide](https://discordjs.guide)
+# 🤖 Ikuno (Discord Multi-Purpose Bot) (Open Source Music Repo) (The Rest Aren't Open Source, Only The Music).
+> Ikuno is a Discord Multi-Purpose Bot built with discord.js & uses Command Handler from [discordjs.guide](https://discordjs.guide)
 
 ## Requirements
 
